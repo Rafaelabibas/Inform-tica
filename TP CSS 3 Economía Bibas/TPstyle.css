@@ -1,0 +1,77 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    color: blue;
+}
+header{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    padding: 10px;
+    text-align: justify;
+}
+nav ul{
+    list-style-type: none;
+    background-color: chocolate;
+}
+nav ul li a{
+    text-decoration: solid;
+    color: beige;
+    font-weight: bold;
+}
+main{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+main ul li{
+    background-color: darkgoldenrod;
+}
+section{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+section h2{
+    text-align: justify;
+    text-decoration-line: none;
+    background-color: deeppink;
+    height: 50px;
+}
+section p{
+    background-color: darkslateblue;
+}
+section a {
+    text-decoration: line-through;
+    color: crimson;
+    font-weight: bold;
+    background-color: fuchsia;
+}
+section ul{
+    list-style-type: none;
+    color: aquamarine;
+}
+img {
+    border: 4px;
+    width: 400px;
+    height: auto;
+    margin: 20px 0;
+    display: block;
+    text-align: justify;
+}
+footer{
+    background-color: rgb(red, green, blue);
+color: pink;
+text-align: center;
+padding: 1px;
+position: bottom;
+width: 100%;
+}
+footer a{
+    color: darkslategray;
+    text-decoration: none;
+}
+footer a:hover{
+color: rgb(red, green, blue);
+text-decoration: none;
+}
+footer a:hover{
+    text-decoration: underline;
+}
