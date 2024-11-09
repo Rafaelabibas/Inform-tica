@@ -40,7 +40,7 @@ section p{
 }
 section a {
     text-decoration: line-through;
-    color: crimson;
+    color: papayawhip;
     font-weight: bold;
     background-color: fuchsia;
 }
@@ -57,7 +57,7 @@ img {
     text-align: justify;
 }
 footer{
-    background-color: rgb(red, green, blue);
+    background-color: rgb(rgba(255, 0, 212, 0), rgb(255, 255, 255), rgb(255, 0, 179));
 color: pink;
 text-align: center;
 padding: 1px;
@@ -65,11 +65,11 @@ position: bottom;
 width: 100%;
 }
 footer a{
-    color: darkslategray;
+    color: pink;
     text-decoration: none;
 }
 footer a:hover{
-color: rgb(red, green, blue);
+color: rgb(pink, white, blue);
 text-decoration: none;
 }
 footer a:hover{
